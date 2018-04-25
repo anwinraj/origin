@@ -2,8 +2,11 @@
   "users": [
     {
       "name": "anwin",
-      "password": "anwin123",
-      "response":"1"
+      "password": "anwin123"
+    },
+    {
+      "name": "anwinraj",
+      "password": "anwin123"
     }
   ]
 }
