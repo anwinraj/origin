@@ -1,11 +1,9 @@
 {
-  "posts": [
+  "users": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "anwin"
+      "password":"anwin123"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
